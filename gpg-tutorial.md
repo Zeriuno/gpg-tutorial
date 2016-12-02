@@ -1,10 +1,8 @@
-Guida per GPG
-============
+# Guida per GPG
 
 Questo testo è una traduzione della guida di Alan Eliasen: nata come una semplice pagina per presentare la sua chiave pubblica, è cresciuta nel tempo sino a diventare una guida su come e perché usare il programma GNU Privacy Guard encryption (GPG) per proteggere la propria privacy. In evoluzione costante, per ogni domanda, consiglio, strumento da suggerire, o per corrispondere con e-pistole cifrate, non esitare a scrivere a [Alan Eliasen](mailto:eliasen@mindspring.com) (in inglese). Grazie!
 
-Sommario
------------------
+## Sommario
 
 -   [Chiave pubblica di Alan Eliasen](#PublicKey)
 -   [Cos'è la cifratura con chiave pubblica?](#PublicKeyCrypto)
@@ -30,7 +28,7 @@ Sommario
 -   [Manually Decrypting](#ManuallyDecrypting)
 -   [Manually Encrypting](#ManuallyEncrypting)
     -   [Encrypting for E-mail](#EncryptingForEmail)
-    -   [Encrypting Files](#EncryptingFiles)
+    -   [Cifrare dei documenti](#EncryptingFiles)
 -   [Attachments and PGP/MIME](#Attachments)
     -   [Attachments in Enigmail](#AttachmentsInEnigmail)
         -   [Disabling PGP/MIME in Enigmail](#DisablingPGPMIME)
@@ -38,7 +36,7 @@ Sommario
     -   [Configuring Enigmail for Automatic
         Signing](#EnigmailAutomaticSigning)
     -   [Signing a Plaintext Message](#SigningPlaintext)
-    -   [Verifying Signatures](#VerifyingSignatures)
+    -   [Verifying Signaures](#VerifyingSignatures)
     -   [Detached Signature](#DetachedSignature)
     -   [Proving You Wrote Something but Remaining Temporarily
         Anonymous](#ProvingAnonymous)
