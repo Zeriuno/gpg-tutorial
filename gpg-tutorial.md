@@ -456,10 +456,10 @@ Mail](https://play.google.com/store/apps/details?id=com.fsck.k9&hl=en)
 program, but I do not vouch for it. APG was not updated for a few years,
 but has seen activity more recently.
 
-gpg or gpg2 ?
+gpg o gpg2 ?
 -------------
 
-GPG version 2 may be on your system with the executable name `gpg2` .
+La versione numero 2 di GPG potrebbe essere presente sulla tua macchina con sotto il nome `gpg2`.
 Either executable can be used for these demonstrations. Both are very
 compatible with each other. (If you want to know a million different
 opinions on which you should be using, do a web search.) Version 1 is
