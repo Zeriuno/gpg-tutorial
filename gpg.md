@@ -1115,10 +1115,9 @@ There are several important things in this command.
     possible. See the [warning above](#Shred) for more details on how to
     do this.
 
-### Encrypting Files
+### Cifrare dei documenti
 
-GPG is not just for e-mail! You may want to use it to protect your
-sensitive files also. Encrypting your files is just about like
+GPG non funziona solo con le e-pistole! Volendo, puoi usarlo anche per proteggere i tuoi documenti importanti. Encrypting your files is just about like
 encrypting an e-mail. The simplest command line is:
 
 `gpg --encrypt filename`{.input}
